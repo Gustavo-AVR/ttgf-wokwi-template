@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This Proyect is a BCD of 7 segments, just like a counter.
 
 ## How to test
 
